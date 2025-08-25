@@ -17,12 +17,16 @@ Our mission is simple: **to empower businesses, startups, and individuals with n
 ---
 
 ## 🛠️ What We Do
+- 🌐 **Web Development** – Modern, scalable, and responsive websites & apps  
+- 🔗 **Blockchain Development** – Smart contracts, dApps, wallets, and crypto tools  
+- 🛡️ **Cybersecurity Services** – Security audits, penetration testing & threat prevention  
+- 📊 **Data Analysis** – Big data insights, business intelligence & AI-powered analytics  
 - 🔐 **Software Development** – Custom web & mobile applications  
 - ☁️ **Cloud Solutions** – Hosting, scaling, and server management  
 - 📊 **FinTech & Crypto Tools** – Secure wallets, dashboards & automation  
 - 🤖 **AI & Automation** – Smart bots and process automation  
-- 🌐 **IT Consulting** – Business-focused IT advisory & support  
 - 🎨 **UI/UX Design** – Modern, user-friendly digital experiences  
+- 🧭 **IT Consulting** – Business-focused IT advisory & support  
 
 ---
 
