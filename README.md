@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Kings%20Of%20Wares-Technology%20Solutions-blueviolet?style=for-the-badge&logo=github" alt="Kings Of Wares Banner"/>
+  <img src="ChatGPT Image Aug 25, 2025, 10_19_04 PM.png" alt="Kings Of Wares Banner" width="100%"/>
 </p>
 
 <h1 align="center">👑 Kings Of Wares</h1>
